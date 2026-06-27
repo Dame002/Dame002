@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Dame%SECK&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%9A%A1&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Dame% SECK&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%9A%A1&descAlignY=58&descSize=20" width="100%" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+applications;Laravel+%7C+React+%7C+TypeScript;Web+%E2%80%A2+Mobile+%E2%80%A2+AI;Building+MockDev+%F0%9F%9A%80" alt="Typing SVG" />
